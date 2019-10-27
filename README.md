@@ -6,4 +6,4 @@ This file is a .py file and needs to be executed by a python compiler. U can use
 1. The .docx file must be stored in the same folder as that of the file.
 2. You cannot run it here. You need to download the .py as well as the .docx file to execute.
 3. You need to have google chrome installed in your computer.
-4. You must have Selenium library, docx library and webdriver installed in your computer.
+4. You must have selenium library, docx library and webdriver installed in your computer.
