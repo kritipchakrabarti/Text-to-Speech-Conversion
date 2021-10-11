@@ -1,0 +1,6 @@
+requests~=2.26.0
+pyttsx3~=2.90
+lxml~=4.6.3
+beautifulsoup4~=4.10.0
+docx~=0.2.4
+selenium~=3.141.0
